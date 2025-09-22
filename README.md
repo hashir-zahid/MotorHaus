@@ -29,7 +29,6 @@ To run the project, you’ll need your own API key:
 
 ---
 ### 1️⃣ Clone the Repository
-     ```bash
      git clone https://github.com/hashir-zahid/MotorHaus.git
 
      cd MotorHaus
@@ -41,7 +40,6 @@ To run the project, you’ll need your own API key:
      npm run dev
 
 ---
-
 
 ## 🧑‍💻 Usage Flow
 
